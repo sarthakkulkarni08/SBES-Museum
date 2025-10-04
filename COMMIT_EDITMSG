@@ -1,0 +1,8 @@
+Add a visitor registration form and update admin login credentials
+
+Implement a non-closable visitor registration form displayed on initial load and update admin login to use "admin" username and "administratorSBES" password.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 525f4051-ec1e-4aed-94da-011282adaacd
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/52a48091-3d51-457d-8bc8-0114dc564b78/525f4051-ec1e-4aed-94da-011282adaacd/jbyezaY
